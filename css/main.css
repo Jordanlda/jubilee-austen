@@ -22,7 +22,7 @@ body {
 
 /****** Header Styles ******/
 .homepage-hero {
-    background: url('/Users/dajrosaamarilla/Desktop/jubilee-austen-site/img/full-background.png'), #f9efef;
+    background: url('../img/full-background.png'), #f9efef;
     background-size: cover;
     background-position: center;
     height: 800px;
